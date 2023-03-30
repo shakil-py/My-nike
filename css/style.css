@@ -1,3 +1,14 @@
 .header-bg{
 background-color: rgb(229, 226, 226);
 }
+.header-title{
+    font-weight: 500;
+    color: rgb(222, 129, 8);
+}
+.header-title2{
+    font-weight: 500;
+    color: rgb(25, 25, 46);
+}
+.btn-text{
+    font-weight: 500;
+}
